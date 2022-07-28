@@ -1,0 +1,13 @@
+.icon a i{
+    color: white;
+}
+.icon a i:hover{
+    color: #3C6EFD;
+}
+.footer-option {
+    text-decoration: none;
+    color: white;
+}
+.footer-option:hover{
+    color: #3C6EFD;
+}
